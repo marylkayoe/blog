@@ -1,2 +1,0 @@
-# blog
-Yoe's blog
