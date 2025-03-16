@@ -1,1 +1,0 @@
-import{t as n,a as o}from"../chunks/CKcQUCps.js";import"../chunks/D3HUAduO.js";const a=!0,l=Object.freeze(Object.defineProperty({__proto__:null,prerender:a},Symbol.toStringTag,{value:"Module"}));var r=n("<p>I’m blogging again, and this time with SvelteKit and markdown. It feels nice.</p>");function i(e){var t=r();o(e,t)}function m(e){i(e)}export{m as component,l as universal};
