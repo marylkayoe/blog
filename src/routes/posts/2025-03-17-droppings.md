@@ -8,3 +8,6 @@ I hate it when I'm walking and a bird poops on me. It's like, "Hey, I'm just try
 
 The same feeling when I read people writing how "a new version of (a thing) just dropped" or "(a company) just dropped a new product - it's a game changer".  Why am I supposed to have positive feelings about things that clearly are falling around like poop pellets from a sheep? It gives the (most likely) false notion that no humans were involved in managing to push the thing into "production".
 
+What prompted this post: [NASA dropped a new report. It's a wake-up call.
+](https://mashable.com/article/nasa-report-earth-sea-level-rise). Sounds like a wake-up call if NASA just drops things from their back end.
+
