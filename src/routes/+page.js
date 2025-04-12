@@ -21,7 +21,7 @@ export async function load() {
   allPosts.sort((a, b) => new Date(b.metadata.date) - new Date(a.metadata.date));
   
   // Select the three newest posts
-  const latestPosts = allPosts.slice(0, 3);
+  const latestPosts = allPosts.slice(0, 4);
   
   return { posts: latestPosts };
 }
