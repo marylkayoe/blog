@@ -1,1 +1,0 @@
-import{t as s,a}from"./DNVPeWcQ.js";import"./B5GBQSCi.js";const p={title:"Testing Snippets",date:"2025-04-12",tags:["testing","snippets"]},{title:r,date:d,tags:g}=p;var n=s("<p>Just learning to use VSCode snippets.</p>");function m(t){var e=n();a(t,e)}export{m as default,p as metadata};
