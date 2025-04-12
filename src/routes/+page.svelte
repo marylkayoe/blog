@@ -15,9 +15,11 @@
     <svelte:component this={post.content} />
     {#if post.metadata.tags}
     <ul>
-      {#each post.metadata.tags as tag}
-        <li>{tag}</li>
-      {/each}
+      <p>
+        <strong>Tags:</strong>
+        {post.metadata.tags.join(', ')}
+      </p>
+      
     </ul>
   {/if}
   </article>
