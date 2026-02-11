@@ -1,0 +1,1 @@
+import{t as i,a as e}from"./DNVPeWcQ.js";import"./B5GBQSCi.js";const s={title:"ars scientica",date:"2026-02-12",tags:["thought"]},{title:r,date:d,tags:p}=s;var n=i("<p>in a sufficiently advanced civilization, science is indistinguishable from art.</p>");function l(t){var a=n();e(t,a)}export{l as default,s as metadata};
