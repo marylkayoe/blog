@@ -1,5 +1,5 @@
 ---
-title: "are scientica"
+title: "ars scientica"
 date: "2026-02-12"
 tags: ["thought"]
 ---
